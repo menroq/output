@@ -20,3 +20,5 @@ print("Prints", "the", "specified", "message", "to", "the", "screen", sep="*-", 
 
 # TASK 4
 # print a joke
+
+# TASK 5
